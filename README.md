@@ -19,7 +19,7 @@
 Our team hopes that with the opportunity to work together, we hope to not only revive a **Flappy Bird** that was once a success symbol in the field of game development in Vietnam, but also helped it reach further in the international game market - as a tribute to the creator of **Flappy Bird**.
 
 
-<img width="300" alt="image1" src="assets/1.png"><img width="300" alt="image2" src="assets/2.png"><img width="300" alt="image3" src="assets/2.png">
+<img width="300" alt="image1" src="assets/1.png"><img width="300" alt="image2" src="assets/2.png"><img width="300" alt="image3" src="assets/3.png">
 
 
 ## Video Demo
@@ -44,8 +44,8 @@ A few of the things you can do with Game Flappy bird:
 - Get point
 - Get items
 
-<img width="500" alt="image4" src="assets/4.png"><img width="500" alt="image5" src="assets/5.png"> <br />
-<img width="500" alt="image6" src="assets/6.png"><img width="500" alt="image7" src="assets/7.png">
+<img width="300" alt="image4" src="assets/4.png"><img width="300" alt="image5" src="assets/5.png"> <br />
+<img width="300" alt="image6" src="assets/6.png"><img width="300" alt="image7" src="assets/7.png">
 
 
 
