@@ -19,7 +19,7 @@
 Our team hopes that with the opportunity to work together, we hope to not only revive a **Flappy Bird** that was once a success symbol in the field of game development in Vietnam, but also helped it reach further in the international game market - as a tribute to the creator of **Flappy Bird**.
 
 
-<img width="500" alt="image1" src="assets/1.png"><img width="500" alt="image2" src="assets/2.png"><img width="500" alt="image3" src="assets/2.png">
+<img width="200" alt="image1" src="assets/1.png"><img width="200" alt="image2" src="assets/2.png"><img width="200" alt="image3" src="assets/2.png">
 
 
 ## Video Demo
